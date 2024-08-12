@@ -1,0 +1,21 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    color: #343a40;
+    margin-bottom: 20px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.alert {
+    margin-top: 10px;
+}
+
+.btn {
+    margin-right: 10px;
+}
